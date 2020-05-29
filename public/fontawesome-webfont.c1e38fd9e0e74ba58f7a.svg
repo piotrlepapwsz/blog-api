@@ -16,9 +16,9 @@ Copyright Dave Gandy 2016. All rights reserved.
     panose-1="0 0 0 0 0 0 0 0 0 0"
     font-weight="400"
     descent="-256"
-    underline-position="0"
     underline-thickness="0"
     units-per-em="1792"
+    underline-position="0"
     unicode-range="U+0020-F500"
   />
 <missing-glyph d="M224 112h448v1312h-448v-1312zM112 0v1536h672v-1536h-672z"
